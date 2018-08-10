@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for RetroPie-CM3
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OIPUWJRV
 
 [Document4]
-DocumentPath=..\..\..\..\Public\Documents\Altium\AD18\Library\ButterwickAltiumLibrary\PCBfootprints_290709\Chip Diode - 2 Contacts.PcbLib
+DocumentPath=..\..\..\..\Public\Documents\Altium\AD18\Library\ButterwickAltiumLibrary\PCBfootprints_290709\QFP_Shrink_Sq_50P_Side_N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IUCNRJPR
 
 [Configuration1]
 Name=Sources
@@ -152,7 +152,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for RetroPie-CM3
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
