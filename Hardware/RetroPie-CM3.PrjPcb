@@ -88,23 +88,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OIPUWJRV
 
-[Document4]
-DocumentPath=..\..\..\..\Public\Documents\Altium\AD18\Library\ButterwickAltiumLibrary\PCBfootprints_290709\QFP_Shrink_Sq_50P_Side_N.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IUCNRJPR
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
